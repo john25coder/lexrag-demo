@@ -1,0 +1,4 @@
+-r requirements.txt
+Pillow>=10,<13
+pytesseract>=0.3.10,<1
+

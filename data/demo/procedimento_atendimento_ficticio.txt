@@ -1,0 +1,12 @@
+PROCEDIMENTO FICTICIO DE ATENDIMENTO
+
+Este texto existe somente para demonstrar indexacao e busca. Nao descreve processos reais de
+qualquer escritorio.
+
+1. Uma nova demanda recebe um numero de protocolo.
+2. A triagem inicial deve ocorrer em ate um dia util.
+3. Se faltarem documentos, o responsavel registra a pendencia e envia uma solicitacao ao cliente.
+4. A demanda somente muda para o estado "pronta para analise" depois que a documentacao minima
+   estiver completa.
+5. Toda alteracao de estado deve registrar data, horario e usuario responsavel.
+

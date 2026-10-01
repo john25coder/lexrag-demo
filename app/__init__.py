@@ -1,0 +1,2 @@
+"""LexRAG application package."""
+
